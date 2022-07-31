@@ -2,7 +2,7 @@
     "url": "https://raw.githubusercontent.com/2fx4d5a/swagger/main/xss.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/2fx4d5a/swagger/main/xss.yaml,
+            "url": "https://raw.githubusercontent.com/2fx4d5a/swagger/main/xss.yaml",
             "name": "Foo"
         }
     ]
